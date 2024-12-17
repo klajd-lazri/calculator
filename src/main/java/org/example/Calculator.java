@@ -1,4 +1,4 @@
-package org.example;
+package calculator.src.main.java.org.example;
 
 public class Calculator {
 
